@@ -1,8 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mohxmed.Mohxmed" />
 
-<div align="center">
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&color=F73A0E&height=70&duration=4000&lines=Wooo!+Hello%2C+World!;I'm+Mhmd+Amr;See+You+Again;It's+Loop+Time!" />
-</div>
+</h1>
 
 <h3 align="center">Passionate Software Engineer from Egypt</h3>
 
