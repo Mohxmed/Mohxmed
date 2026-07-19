@@ -13,8 +13,8 @@
 
 ### 🧠 About Me
 
-- 💼 Currently working as a **[Your Current Role / Freelancer]**
-- 🌱 Constantly learning and exploring **[Next.js 15, Docker, System Design, etc.]**
+- 💼 Currently working as a Freelancer
+- 🌱 Constantly learning and exploring Next.js 15, Docker, System Design
 - ⚡ Fun fact: I turn coffee into clean, maintainable, and production-ready code.
 - 💬 Ask me about: **JavaScript/TypeScript, Node.js, React, Databases, & System Architecture**
 
