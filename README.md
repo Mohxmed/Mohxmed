@@ -1,7 +1,7 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Mohamed Amr 👋
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YourGitHubUsername]&color=007acc&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Mohxmed&color=007acc&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
