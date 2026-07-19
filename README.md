@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <strong>Full-Stack Developer 🚀</strong><br>
-  I am a passionate full-stack developer dedicated to building robust, scalable, and high-performance web applications. I bridge the gap between elegant user interfaces and powerful backends.
+  <strong>Full-Stack Engineer 🚀</strong><br>
+  I am a passionate full-stack Engineer dedicated to building robust, scalable, and high-performance web applications. I bridge the gap between elegant user interfaces and powerful backends.
 </p>
 
 ---
