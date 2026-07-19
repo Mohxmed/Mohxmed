@@ -63,8 +63,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&layout=compact&theme=tokyonight&locale=en" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohxmed&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohxmed&layout=compact&theme=tokyonight&locale=en" alt="Top Languages" height="150" />
 </p>
 
 ---
@@ -72,10 +72,10 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/[YourLinkedIn]" target="_blank">
+  <a href="https://linkedin.com/in/Mohxmeduni" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:[YourEmail@example.com]" target="_blank">
+  <a href="mailto:[MohxmedBusiness@example.com]" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://[YourPortfolio.com]" target="_blank">
