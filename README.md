@@ -64,7 +64,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohxmed&theme=tokyonight" alt="GitHub Streak Stats" height="150" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Mohxmed&layout=compact&theme=tokyonight&locale=en" alt="Top Languages" height="150" />
 </p>
 
 
