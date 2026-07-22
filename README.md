@@ -47,8 +47,6 @@
   </tr>
 </table>
 
-*(Note: You can easily customize these icons by adding/removing tech names in the link above separated by commas)*
-
 ---
 
 ### 🚀 Featured Projects
