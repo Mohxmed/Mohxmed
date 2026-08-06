@@ -33,7 +33,7 @@
       <br><sub>Frameworks</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" alt="Backend" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,firebase" alt="Backend" />
       <br><sub>Backend</sub>
     </td>
     <td align="center" width="96">
