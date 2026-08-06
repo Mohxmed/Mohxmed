@@ -71,7 +71,7 @@
   <a href="https://linkedin.com/in/Mohxmeduni" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:[MohxmedBusiness@example.com]" target="_blank">
+  <a href="mailto:[MohxmedBusiness@gmail.com]" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://[YourPortfolio.com]" target="_blank">
