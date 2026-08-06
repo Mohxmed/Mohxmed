@@ -53,7 +53,7 @@
 
 | Project Name | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **[Project 1]** | A brief 1-sentence sentence description of what your amazing project does. | `Next.js` `Node.js` `PostgreSQL` | [View Code](https://github.com/[YourGitHubUsername]/[RepoName]) |
+| **[No2TA Platform]** | Agecny Modern Website & Full CMS & Team/Tasm MGMT System. | `Next.js` `Firebase` `Vercel` | [View Code](https://github.com/[YourGitHubUsername]/[RepoName]) |
 | **[Project 2]** | A brief 1-sentence sentence description of what your amazing project does. | `React` `Express` `MongoDB` | [View Code](https://github.com/[YourGitHubUsername]/[RepoName]) |
 
 ---
