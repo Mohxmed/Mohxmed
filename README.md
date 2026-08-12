@@ -54,8 +54,6 @@
 | Project Name | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **[No2TA]** | Agecny Modern Website & Full CMS & Team/Tasm MGMT System. | `Next.js` `Firebase` `Vercel` | [View Code](https://github.com/[Mohxmed]/[Agency-Platform-Team-Managment]) |
-| **[Project 2]** | A brief 1-sentence sentence description of what your amazing project does. | `React` `Express` `MongoDB` | [View Code](https://github.com/[YourGitHubUsername]/[RepoName]) |
-
 ---
 
 ### 📊 GitHub Stats
