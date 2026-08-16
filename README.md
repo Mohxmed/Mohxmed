@@ -1,81 +1,133 @@
-# Hi there, I'm Mohamed Amr 👋
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohxmed&color=007acc&style=flat-square" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <strong>Full-Stack Engineer 🚀</strong><br>
-  I am a passionate full-stack Engineer dedicated to building robust, scalable, and high-performance web applications. I bridge the gap between elegant user interfaces and powerful backends.
-</p>
-
----
-
-### 🧠 About Me
-
-- 💼 Currently working as a Freelancer
-- 🌱 Constantly learning and exploring Next.js 15, Docker, System Design
-- ⚡ Fun fact: I turn coffee into clean, maintainable, and production-ready code.
-- 💬 Ask me about: **JavaScript/TypeScript, Node.js, React, Databases, & System Architecture**
-
----
-
-### 🛠️ Tech Stack
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Frontend Base" />
-      <br><sub>Frontend</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frameworks" />
-      <br><sub>Frameworks</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,firebase" alt="Backend" />
-      <br><sub>Backend</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" alt="Databases" />
-      <br><sub>Databases</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git,github,docker,aws" alt="DevOps & Tools" />
-      <br><sub>Tools/DevOps</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🚀 Featured Projects
-
-| Project Name | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **[No2TA]** | Agecny Modern Website & Full CMS & Team/Tasm MGMT System. | `Next.js` `Firebase` `Vercel` | [View Code](https://github.com/[Mohxmed]/[Agency-Platform-Team-Managment]) |
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohxmed&theme=tokyonight" alt="GitHub Streak Stats" height="150" />
-</p>
-
-
-### 🤝 Connect with Me
+# Hi, I'm Mohamed Amr
 
 <p align="left">
-  <a href="https://linkedin.com/in/Mohxmeduni" target="_blank">
+  <a href="https://github.com/Mohxmed">
+    <img src="https://komarev.com/ghpvc/?username=Mohxmed&color=007acc&style=flat-square" alt="Profile Views" />
+  </a>
+</p>
+
+### Full-Stack Engineer
+
+I build **scalable, maintainable, and production-ready web applications** with a strong focus on clean architecture, performance, and developer experience.
+
+I work across the stack — from responsive React interfaces and modern Next.js applications to backend services, databases, authentication, and cloud infrastructure.
+
+---
+
+## About Me
+
+* 💻 Full-Stack Engineer & Freelancer
+* ⚛️ Building with **React, Next.js, TypeScript, and Node.js**
+* 🏗️ Interested in **Software Architecture, System Design, and scalable applications**
+* 🗄️ Working with both **SQL and NoSQL databases**
+* ☁️ Exploring **Docker, AWS, cloud infrastructure, and DevOps**
+* 📚 Continuously improving my engineering practices and understanding of distributed systems
+
+---
+
+## Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend technologies" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,firebase,mongodb,postgres,mysql" alt="Backend and database technologies" />
+</p>
+
+### Tools & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel" alt="Tools and infrastructure" />
+</p>
+
+---
+
+## Featured Projects
+
+### NO2TA — Agency Platform
+
+A modern marketing agency platform featuring a public website and an internal CMS/team management system.
+
+**Highlights**
+
+* Modern responsive landing page
+* Custom CMS dashboard
+* Content management
+* Team management
+* Authentication & authorization
+* Cloud-based media management
+* Production deployment and monitoring
+
+**Stack:** `Next.js` `React` `TypeScript` `Firebase` `Cloudinary` `Vercel`
+
+[View Project →](https://github.com/Mohxmed/Agency-Platform-Team-Managment)
+
+---
+
+## Engineering Interests
+
+```text
+Frontend Architecture
+        ↓
+React / Next.js / TypeScript
+        ↓
+API & Backend Architecture
+        ↓
+Node.js / Express
+        ↓
+Data Layer
+        ↓
+PostgreSQL / MySQL / MongoDB / Firestore
+        ↓
+Infrastructure
+        ↓
+Docker / AWS / Vercel
+```
+
+I'm particularly interested in:
+
+* Clean Architecture
+* Scalable frontend architecture
+* Type-safe development
+* API design
+* Database design & normalization
+* Authentication & authorization
+* Performance optimization
+* Caching & server state management
+* System design
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Mohxmed&theme=tokyonight"
+    alt="GitHub Streak"
+    height="170"
+  />
+</p>
+
+---
+
+## Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/Mohxmeduni">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:[MohxmedBusiness@gmail.com]" target="_blank">
+  <a href="mailto:MohxmedBusiness@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://[YourPortfolio.com]" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 ---
-<p align="center">"Clean code always looks like it was written by someone who cares." 💻✨</p>
+
+<p align="center">
+  <i>Building software that is simple to use, easy to maintain, and ready to scale.</i>
+</p>
