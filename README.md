@@ -71,24 +71,6 @@ A modern marketing agency platform featuring a public website and an internal CM
 
 ## Engineering Interests
 
-```text
-Frontend Architecture
-        ↓
-React / Next.js / TypeScript
-        ↓
-API & Backend Architecture
-        ↓
-Node.js / Express
-        ↓
-Data Layer
-        ↓
-PostgreSQL / MySQL / MongoDB / Firestore
-        ↓
-Infrastructure
-        ↓
-Docker / AWS / Vercel
-```
-
 I'm particularly interested in:
 
 * Clean Architecture
@@ -100,18 +82,6 @@ I'm particularly interested in:
 * Performance optimization
 * Caching & server state management
 * System design
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Mohxmed&theme=tokyonight"
-    alt="GitHub Streak"
-    height="170"
-  />
-</p>
 
 ---
 
